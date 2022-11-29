@@ -4,7 +4,8 @@ Using the Depression,Anxiety and Stress Scales (DASS-21) questionnare in order t
 # 2.Motivation
 As a result of modern lifestyles, Many people are suffering from various forms of psychological health problems. Anxiety, depression, and stress all have certain characteristics. Generally, psychiatrists measure anxiety, depression, and stress using questionnaires such as the DASS42 and DASS21, since people who suffer from anxiety, depression, or stress are typically unwilling to share their symptoms . Therefore, we thought that with the help of machine learning we can ease the process
 # 3.Methodolgy
-# Dataset: kaggle dataset depression-anxiety-stress- scales-responses , which were the DASS 42 form's
+# Dataset
+kaggle dataset depression-anxiety-stress- scales-responses , which were the DASS 42 form's
 responses of people around the globe. • Rows: 35000+ rows
 • We mapped the DASS42 to DASS21 to reduce the no. of questions. 
 # Tools
